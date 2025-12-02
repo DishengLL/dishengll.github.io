@@ -21,9 +21,9 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 
 # Site Author
 author:
-  name: 'Lorem ipsum'
+  name: 'Disheng Liu'
   avatar: 'images/Ds.png'
-  bio: 'Lorem ipsum College'
+  bio: 'Case Western Reserve University'
   location: 'Cleveland, USA'
   employer:
   pubmed:
@@ -37,15 +37,15 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: # e.g., "github username"
+  github: DishengLL
   google_plus:
   keybase:
   instagram:
   impactstory: # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin: # e.g., "linkedin username"
+  linkedin: disheng-liu-064847221
   dblp: # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid: # e.g., "https://orcid.org/xxxx"
+  orcid: #https://orcid.org/my-orcid?orcid=0000-0002-5034-1407
   pinterest:
   soundcloud:
   stackoverflow: # http://stackoverflow.com/users/123456/username

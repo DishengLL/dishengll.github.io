@@ -1,0 +1,17 @@
+current directory: /Users/liu/Desktop/github/homepage.github.io/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/liu/.rbenv/versions/3.0.0/bin/ruby -I /Users/liu/.rbenv/versions/3.0.0/lib/ruby/3.0.0 -r ./siteconf20251202-9179-dj5sy0.rb extconf.rb
+creating Makefile
+
+current directory: /Users/liu/Desktop/github/homepage.github.io/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /Users/liu/Desktop/github/homepage.github.io/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+ld: warning: -multiply_defined is obsolete
+
+current directory: /Users/liu/Desktop/github/homepage.github.io/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20251202-9179-5ffmi2
