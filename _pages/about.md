@@ -46,12 +46,13 @@ I have broad research interests in **Computer Vision** and **Vision-Language Mod
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='/images/Project/Synthetic.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Balancing Fidelity and Diversity: Synthetic data could stand on the shoulder of the real in visual recognition**](https://arxiv.org/pdf/2503.04852)
+[**Balancing Fidelity and Diversity: Synthetic data could stand on the shoulder of the real in visual recognition**](https://openreview.net/pdf?id=6r0VuH8gGT)
 
 **Disheng Liu**, Tuo Liang, Yu Yin
 
-[**Github**](https://github.com/DishengLL/BALANCING-FIDELITY-AND-DIVERSITY) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- 
+[**Github**](https://github.com/DishengLL/BALANCING-FIDELITY-AND-DIVERSITY) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- With the rapid progress of generative models, synthetic data has become a common solution to data scarcity in AI. However, is using it directly without curation ideal for visual recognition? We systematically study how data fidelity and diversity affect recognition performance and show that balancing these factors significantly improves results through a training-free curation pipeline.
+
 </div>
 </div>
 
