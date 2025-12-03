@@ -1,0 +1,133 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "publications",
+    "indices",
+    "counts"
+  ],
+  "scholar_id": "xlIBwREAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Disheng Liu",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=xlIBwREAAAAJ&citpid=3",
+  "affiliation": "PhD Candidate, Case Western Reserve University",
+  "organization": 10114780493305518333,
+  "interests": [
+    "Computer Vision",
+    "Spatial Intelligence",
+    "Vision-Language Model"
+  ],
+  "email_domain": "@case.edu",
+  "citedby": 217,
+  "publications": {
+    "xlIBwREAAAAJ:u-x6o8ySG0sC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Clip in medical imaging: A comprehensive survey",
+        "pub_year": "2023"
+      },
+      "filled": false,
+      "author_pub_id": "xlIBwREAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 181,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7244143958711232678,15828615755176313998",
+      "cites_id": [
+        "7244143958711232678",
+        "15828615755176313998"
+      ]
+    },
+    "xlIBwREAAAAJ:u5HHmVD_uO8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Prediction of covid-19 patients’ emergency room revisit using multi-source transfer learning",
+        "pub_year": "2023"
+      },
+      "filled": false,
+      "author_pub_id": "xlIBwREAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5530442389613500539",
+      "cites_id": [
+        "5530442389613500539"
+      ]
+    },
+    "xlIBwREAAAAJ:qjMakFHDy7sC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bard-gs: Blur-aware reconstruction of dynamic scenes via gaussian splatting",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "xlIBwREAAAAJ:qjMakFHDy7sC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17930244082616429228",
+      "cites_id": [
+        "17930244082616429228"
+      ]
+    },
+    "xlIBwREAAAAJ:UeHWp8X0CEIC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "When'YES'Meets' BUT': Can Large Models Comprehend Contradictory Humor Through Comparative Reasoning?",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "xlIBwREAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1752058740287652372",
+      "cites_id": [
+        "1752058740287652372"
+      ]
+    },
+    "xlIBwREAAAAJ:2osOgNQ5qMEC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Causal3d: A comprehensive benchmark for causal learning from visual data",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "xlIBwREAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4233934200802948226",
+      "cites_id": [
+        "4233934200802948226"
+      ]
+    },
+    "xlIBwREAAAAJ:Y0pCki6q_DkC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deconstructing Spatial Intelligence in Vision-Language Models",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "xlIBwREAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 0
+    },
+    "xlIBwREAAAAJ:Tyk-4Ss8FVUC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Counterfactual Visual Explanation via Causally-Guided Adversarial Steering",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "xlIBwREAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    }
+  },
+  "citedby5y": 216,
+  "hindex": 3,
+  "hindex5y": 3,
+  "i10index": 3,
+  "i10index5y": 3,
+  "cites_per_year": {
+    "2023": 5,
+    "2024": 58,
+    "2025": 151
+  },
+  "updated": "2025-12-03T04:26:03Z"
+}
