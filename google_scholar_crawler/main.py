@@ -37,6 +37,7 @@ def save_json(path: str, data: dict) -> None:
 
 def main() -> int:
     scholar_id = os.getenv(GS_ID_ENV)
+    print(f"[debug] Using Google Scholar ID: {scholar_id!r}", flush=True)
     if not scholar_id:
         print(f"[error] Environment variable {GS_ID_ENV} is not set.", flush=True)
         return 1
