@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD candidate in Computer Science at Case Western Reserve University (CWRU), where I am advised by Prof. Yu Yin.
+I am a PhD candidate in Computer Science at [Case Western Reserve University (CWRU)](https://engineering.case.edu/computer-and-data-sciences), where I am advised by Prof. [Yu Yin](https://yin-yu.github.io/).
 
-Prior to that, I was a Visiting student at ShanghaiTech University. I received my M.S. in Information Science from University of Pittsburgh (Pitt) in 2022. I received my B.Eng. in Computing and Information Science from Guangdong University of Technology supervised by Prof. Weihua He.
+Prior to that, I was a Visiting student at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng). I received my M.S. in Information Science from [University of Pittsburgh (Pitt)](https://www.sci.pitt.edu/) in 2022. I received my B.Eng. in Computing and Information Science from [Guangdong University of Technology](https://www.gdut.edu.cn/) supervised by Prof. [Weihua He](https://sites.google.com/view/weihuahe/).
 
 I have broad research interests in **Computer Vision** and **Vision-Language Models**, with a particular focus on advancing **spatial intelligence** in the next generation of AI systems.  <a href="https://scholar.google.com/citations?user=xlIBwREAAAAJ&hl=en">
   <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"
@@ -86,6 +86,8 @@ I have broad research interests in **Computer Vision** and **Vision-Language Mod
 
 # 💻 Working Experience
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+- 2023.07 - 2024.08, Research Intern, [ShanghaiTech IDEA Lab](https://idea.bme.shanghaitech.edu.cn/), Shanghai, China.
+- 2022.07 - 2023.07, Algorithm Engineer, Yinwang Intelligent Technology, Shanghai, China.
 
 
 # 📝 Servicing 
