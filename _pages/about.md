@@ -34,7 +34,7 @@ I have broad research interests in **Computer Vision** and **Vision-Language Mod
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.10</div><img src='/images/Project/Spatial_VLM.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Spatial Intelligence in Vision-Language Models: A Comprehensive Survey**](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176231405.57942913/v2)
+[**Spatial Intelligence in Vision-Language Models: A Comprehensive Survey**](https://www.techrxiv.org/users/992599/articles/1354538/master/file/data/Spatial_VLM_Survey_Techrxiv/Spatial_VLM_Survey_Techrxiv.pdf?inline=true#scrollbar=1&toolbar=1&statusbar=1&navpanes=1#)
 
 **Disheng Liu**, Tuo Liang, Zhe Hu, Jierui Peng, Yiren Lu, Yi Xu, Yun Fu, Yu Yin
 
