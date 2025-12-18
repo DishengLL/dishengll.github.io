@@ -19,18 +19,19 @@
   ],
   "email_domain": "@case.edu",
   "homepage": "https://dishengll.github.io/",
-  "citedby": 218,
+  "citedby": 223,
   "publications": {
     "xlIBwREAAAAJ:u-x6o8ySG0sC": {
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
         "title": "Clip in medical imaging: A comprehensive survey",
-        "pub_year": "2023"
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2312.07353, 2023"
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:u-x6o8ySG0sC",
-      "num_citations": 181,
+      "num_citations": 184,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7244143958711232678,15828615755176313998",
       "cites_id": [
         "7244143958711232678",
@@ -42,7 +43,8 @@
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
         "title": "Prediction of covid-19 patients’ emergency room revisit using multi-source transfer learning",
-        "pub_year": "2023"
+        "pub_year": "2023",
+        "citation": "2023 IEEE 11th International Conference on Healthcare Informatics (ICHI …, 2023"
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:u5HHmVD_uO8C",
@@ -57,11 +59,12 @@
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
         "title": "Bard-gs: Blur-aware reconstruction of dynamic scenes via gaussian splatting",
-        "pub_year": "2025"
+        "pub_year": "2025",
+        "citation": "Proceedings of the Computer Vision and Pattern Recognition Conference, 16532 …, 2025"
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:qjMakFHDy7sC",
-      "num_citations": 10,
+      "num_citations": 12,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17930244082616429228",
       "cites_id": [
         "17930244082616429228"
@@ -72,7 +75,8 @@
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
         "title": "When'YES'Meets' BUT': Can Large Models Comprehend Contradictory Humor Through Comparative Reasoning?",
-        "pub_year": "2025"
+        "pub_year": "2025",
+        "citation": "arXiv preprint arXiv:2503.23137, 2025"
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:UeHWp8X0CEIC",
@@ -87,7 +91,8 @@
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
         "title": "Causal3d: A comprehensive benchmark for causal learning from visual data",
-        "pub_year": "2025"
+        "pub_year": "2025",
+        "citation": "arXiv preprint arXiv:2503.04852, 2025"
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:2osOgNQ5qMEC",
@@ -102,7 +107,8 @@
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
         "title": "Deconstructing Spatial Intelligence in Vision-Language Models",
-        "pub_year": "2025"
+        "pub_year": "2025",
+        "citation": "Authorea Preprints, 2025"
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:Y0pCki6q_DkC",
@@ -113,14 +119,15 @@
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
         "title": "Counterfactual Visual Explanation via Causally-Guided Adversarial Steering",
-        "pub_year": "2025"
+        "pub_year": "2025",
+        "citation": "arXiv preprint arXiv:2507.09881, 2025"
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:Tyk-4Ss8FVUC",
       "num_citations": 0
     }
   },
-  "citedby5y": 217,
+  "citedby5y": 222,
   "hindex": 3,
   "hindex5y": 3,
   "i10index": 3,
@@ -128,7 +135,7 @@
   "cites_per_year": {
     "2023": 5,
     "2024": 58,
-    "2025": 151
+    "2025": 156
   },
-  "updated": "2025-12-13T14:00:05Z"
+  "updated": "2025-12-18T15:08:18Z"
 }
