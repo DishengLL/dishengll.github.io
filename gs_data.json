@@ -19,7 +19,7 @@
   ],
   "email_domain": "@case.edu",
   "homepage": "https://dishengll.github.io/",
-  "citedby": 232,
+  "citedby": 236,
   "publications": {
     "xlIBwREAAAAJ:u-x6o8ySG0sC": {
       "container_type": "Publication",
@@ -31,7 +31,7 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:u-x6o8ySG0sC",
-      "num_citations": 191,
+      "num_citations": 194,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7244143958711232678,15828615755176313998",
       "cites_id": [
         "7244143958711232678",
@@ -64,7 +64,7 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:qjMakFHDy7sC",
-      "num_citations": 14,
+      "num_citations": 15,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17930244082616429228",
       "cites_id": [
         "17930244082616429228"
@@ -102,16 +102,16 @@
         "4233934200802948226"
       ]
     },
-    "xlIBwREAAAAJ:Y0pCki6q_DkC": {
+    "xlIBwREAAAAJ:WF5omc3nYNoC": {
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
-        "title": "Deconstructing Spatial Intelligence in Vision-Language Models",
+        "title": "Spatial Intelligence in Vision-Language Models: A Comprehensive Survey",
         "pub_year": "2025",
-        "citation": "Authorea Preprints, 2025"
+        "citation": ""
       },
       "filled": false,
-      "author_pub_id": "xlIBwREAAAAJ:Y0pCki6q_DkC",
+      "author_pub_id": "xlIBwREAAAAJ:WF5omc3nYNoC",
       "num_citations": 0
     },
     "xlIBwREAAAAJ:Tyk-4Ss8FVUC": {
@@ -127,7 +127,7 @@
       "num_citations": 0
     }
   },
-  "citedby5y": 231,
+  "citedby5y": 235,
   "hindex": 3,
   "hindex5y": 3,
   "i10index": 3,
@@ -135,7 +135,8 @@
   "cites_per_year": {
     "2023": 5,
     "2024": 58,
-    "2025": 162
+    "2025": 166,
+    "2026": 6
   },
-  "updated": "2026-01-01T15:36:04Z"
+  "updated": "2026-01-02T15:36:05Z"
 }
