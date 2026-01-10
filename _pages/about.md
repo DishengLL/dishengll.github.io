@@ -36,8 +36,9 @@ I have broad research interests in **Computer Vision** and **Vision-Language Mod
 
 [**Spatial Intelligence in Vision-Language Models: A Comprehensive Survey**](https://www.techrxiv.org/users/992599/articles/1354538/master/file/data/Spatial_VLM_Survey_Techrxiv/Spatial_VLM_Survey_Techrxiv.pdf?inline=true#scrollbar=1&toolbar=1&statusbar=1&navpanes=1#)
 
-**Disheng Liu**, Tuo Liang, Zhe Hu, Jierui Peng, Yiren Lu, Yi Xu, Yun Fu, Yu Yin; [**GitHub**](https://github.com/vulab-AI/Awesome-Spatial-VLMs) 
-<img src="https://img.shields.io/github/stars/vulab-AI/Awesome-Spatial-VLMs" align="absmiddle">;  [**Website**](https://vulab-ai.github.io/Awesome-Spatial-VLMs/) 
+**Disheng Liu**, Tuo Liang, Zhe Hu, Jierui Peng, Yiren Lu, Yi Xu, Yun Fu, Yu Yin;
+[**Website**](https://vulab-ai.github.io/Awesome-Spatial-VLMs/); [**GitHub**](https://github.com/vulab-AI/Awesome-Spatial-VLMs) 
+<img src="https://img.shields.io/github/stars/vulab-AI/Awesome-Spatial-VLMs" align="absmiddle">
 
 - Vision-Language Models (VLMs) have achieved great success but still lack spatial intelligence, and this survey provides the first unified overview of recent advances, taxonomies, and evaluations toward building spatially intelligent AI.
 </div>
