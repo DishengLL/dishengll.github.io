@@ -19,7 +19,7 @@
   ],
   "email_domain": "@case.edu",
   "homepage": "https://dishengll.github.io/",
-  "citedby": 237,
+  "citedby": 245,
   "publications": {
     "xlIBwREAAAAJ:u-x6o8ySG0sC": {
       "container_type": "Publication",
@@ -31,7 +31,7 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:u-x6o8ySG0sC",
-      "num_citations": 194,
+      "num_citations": 201,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7244143958711232678,15828615755176313998",
       "cites_id": [
         "7244143958711232678",
@@ -102,6 +102,22 @@
         "4233934200802948226"
       ]
     },
+    "xlIBwREAAAAJ:Tyk-4Ss8FVUC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Counterfactual Visual Explanation via Causally-Guided Adversarial Steering",
+        "pub_year": "2025",
+        "citation": "arXiv preprint arXiv:2507.09881, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "xlIBwREAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=722874631654972798",
+      "cites_id": [
+        "722874631654972798"
+      ]
+    },
     "xlIBwREAAAAJ:WF5omc3nYNoC": {
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
@@ -113,30 +129,18 @@
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:WF5omc3nYNoC",
       "num_citations": 0
-    },
-    "xlIBwREAAAAJ:Tyk-4Ss8FVUC": {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Counterfactual Visual Explanation via Causally-Guided Adversarial Steering",
-        "pub_year": "2025",
-        "citation": "arXiv preprint arXiv:2507.09881, 2025"
-      },
-      "filled": false,
-      "author_pub_id": "xlIBwREAAAAJ:Tyk-4Ss8FVUC",
-      "num_citations": 0
     }
   },
-  "citedby5y": 236,
+  "citedby5y": 244,
   "hindex": 4,
   "hindex5y": 4,
   "i10index": 3,
   "i10index5y": 3,
   "cites_per_year": {
     "2023": 5,
-    "2024": 58,
-    "2025": 165,
+    "2024": 59,
+    "2025": 172,
     "2026": 8
   },
-  "updated": "2026-01-08T15:36:05Z"
+  "updated": "2026-01-12T15:36:06Z"
 }
