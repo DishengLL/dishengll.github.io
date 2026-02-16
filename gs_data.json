@@ -19,22 +19,21 @@
   ],
   "email_domain": "@case.edu",
   "homepage": "https://dishengll.github.io/",
-  "citedby": 263,
+  "citedby": 262,
   "publications": {
     "xlIBwREAAAAJ:u-x6o8ySG0sC": {
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
-        "title": "Clip in medical imaging: A comprehensive survey",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2312.07353, 2023"
+        "title": "CLIP in medical imaging: A survey",
+        "pub_year": "2025",
+        "citation": "Medical Image Analysis 102, 103551, 2025"
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:u-x6o8ySG0sC",
-      "num_citations": 216,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7244143958711232678,15828615755176313998",
+      "num_citations": 218,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15828615755176313998",
       "cites_id": [
-        "7244143958711232678",
         "15828615755176313998"
       ]
     },
@@ -48,7 +47,7 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:u5HHmVD_uO8C",
-      "num_citations": 22,
+      "num_citations": 20,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5530442389613500539",
       "cites_id": [
         "5530442389613500539"
@@ -80,7 +79,7 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:UeHWp8X0CEIC",
-      "num_citations": 5,
+      "num_citations": 4,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1752058740287652372",
       "cites_id": [
         "1752058740287652372"
@@ -131,16 +130,16 @@
       "num_citations": 0
     }
   },
-  "citedby5y": 262,
+  "citedby5y": 261,
   "hindex": 4,
   "hindex5y": 4,
   "i10index": 3,
   "i10index5y": 3,
   "cites_per_year": {
     "2023": 5,
-    "2024": 59,
-    "2025": 176,
-    "2026": 22
+    "2024": 57,
+    "2025": 175,
+    "2026": 24
   },
-  "updated": "2026-02-15T15:36:05Z"
+  "updated": "2026-02-16T15:36:06Z"
 }
