@@ -19,7 +19,7 @@
   ],
   "email_domain": "@case.edu",
   "homepage": "https://dishengll.github.io/",
-  "citedby": 280,
+  "citedby": 281,
   "publications": {
     "xlIBwREAAAAJ:u-x6o8ySG0sC": {
       "container_type": "Publication",
@@ -37,6 +37,22 @@
         "15828615755176313998"
       ]
     },
+    "xlIBwREAAAAJ:qjMakFHDy7sC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bard-gs: Blur-aware reconstruction of dynamic scenes via gaussian splatting",
+        "pub_year": "2025",
+        "citation": "Proceedings of the Computer Vision and Pattern Recognition Conference, 16532 …, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "xlIBwREAAAAJ:qjMakFHDy7sC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17930244082616429228",
+      "cites_id": [
+        "17930244082616429228"
+      ]
+    },
     "xlIBwREAAAAJ:u5HHmVD_uO8C": {
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
@@ -51,22 +67,6 @@
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5530442389613500539",
       "cites_id": [
         "5530442389613500539"
-      ]
-    },
-    "xlIBwREAAAAJ:qjMakFHDy7sC": {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Bard-gs: Blur-aware reconstruction of dynamic scenes via gaussian splatting",
-        "pub_year": "2025",
-        "citation": "Proceedings of the Computer Vision and Pattern Recognition Conference, 16532 …, 2025"
-      },
-      "filled": false,
-      "author_pub_id": "xlIBwREAAAAJ:qjMakFHDy7sC",
-      "num_citations": 19,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17930244082616429228",
-      "cites_id": [
-        "17930244082616429228"
       ]
     },
     "xlIBwREAAAAJ:UeHWp8X0CEIC": {
@@ -135,7 +135,7 @@
       ]
     }
   },
-  "citedby5y": 279,
+  "citedby5y": 280,
   "hindex": 4,
   "hindex5y": 4,
   "i10index": 3,
@@ -143,8 +143,8 @@
   "cites_per_year": {
     "2023": 5,
     "2024": 57,
-    "2025": 177,
-    "2026": 40
+    "2025": 176,
+    "2026": 42
   },
-  "updated": "2026-03-14T14:36:05Z"
+  "updated": "2026-03-15T14:36:05Z"
 }
