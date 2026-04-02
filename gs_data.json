@@ -133,6 +133,18 @@
       "cites_id": [
         "722874631654972798"
       ]
+    },
+    "xlIBwREAAAAJ:ufrVoPGSRksC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning",
+        "pub_year": "2026",
+        "citation": "arXiv preprint arXiv:2603.19137, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "xlIBwREAAAAJ:ufrVoPGSRksC",
+      "num_citations": 0
     }
   },
   "citedby5y": 290,
@@ -146,5 +158,5 @@
     "2025": 176,
     "2026": 53
   },
-  "updated": "2026-04-01T14:36:05Z"
+  "updated": "2026-04-02T14:36:05Z"
 }
