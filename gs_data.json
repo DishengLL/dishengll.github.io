@@ -19,7 +19,7 @@
   ],
   "email_domain": "@case.edu",
   "homepage": "https://dishengll.github.io/",
-  "citedby": 297,
+  "citedby": 298,
   "publications": {
     "xlIBwREAAAAJ:u-x6o8ySG0sC": {
       "container_type": "Publication",
@@ -31,7 +31,7 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:u-x6o8ySG0sC",
-      "num_citations": 246,
+      "num_citations": 247,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15828615755176313998",
       "cites_id": [
         "15828615755176313998"
@@ -147,7 +147,7 @@
       "num_citations": 0
     }
   },
-  "citedby5y": 296,
+  "citedby5y": 297,
   "hindex": 4,
   "hindex5y": 4,
   "i10index": 3,
@@ -156,7 +156,7 @@
     "2023": 5,
     "2024": 56,
     "2025": 176,
-    "2026": 59
+    "2026": 60
   },
-  "updated": "2026-04-13T14:36:06Z"
+  "updated": "2026-04-14T14:36:05Z"
 }
