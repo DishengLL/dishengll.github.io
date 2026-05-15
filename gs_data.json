@@ -19,7 +19,7 @@
   ],
   "email_domain": "@case.edu",
   "homepage": "https://dishengll.github.io/",
-  "citedby": 316,
+  "citedby": 319,
   "publications": {
     "xlIBwREAAAAJ:u-x6o8ySG0sC": {
       "container_type": "Publication",
@@ -47,7 +47,7 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:qjMakFHDy7sC",
-      "num_citations": 21,
+      "num_citations": 23,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17930244082616429228",
       "cites_id": [
         "17930244082616429228"
@@ -118,6 +118,22 @@
         "17700550352212067534"
       ]
     },
+    "xlIBwREAAAAJ:ufrVoPGSRksC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning",
+        "pub_year": "2026",
+        "citation": "arXiv preprint arXiv:2603.19137, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "xlIBwREAAAAJ:ufrVoPGSRksC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4451597311891947813",
+      "cites_id": [
+        "4451597311891947813"
+      ]
+    },
     "xlIBwREAAAAJ:Tyk-4Ss8FVUC": {
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
@@ -133,21 +149,9 @@
       "cites_id": [
         "722874631654972798"
       ]
-    },
-    "xlIBwREAAAAJ:ufrVoPGSRksC": {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning",
-        "pub_year": "2026",
-        "citation": "arXiv preprint arXiv:2603.19137, 2026"
-      },
-      "filled": false,
-      "author_pub_id": "xlIBwREAAAAJ:ufrVoPGSRksC",
-      "num_citations": 0
     }
   },
-  "citedby5y": 315,
+  "citedby5y": 318,
   "hindex": 4,
   "hindex5y": 4,
   "i10index": 3,
@@ -156,7 +160,7 @@
     "2023": 5,
     "2024": 56,
     "2025": 172,
-    "2026": 82
+    "2026": 85
   },
-  "updated": "2026-05-14T14:36:05Z"
+  "updated": "2026-05-15T14:36:05Z"
 }
