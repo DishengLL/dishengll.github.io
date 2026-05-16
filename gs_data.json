@@ -19,7 +19,7 @@
   ],
   "email_domain": "@case.edu",
   "homepage": "https://dishengll.github.io/",
-  "citedby": 319,
+  "citedby": 320,
   "publications": {
     "xlIBwREAAAAJ:u-x6o8ySG0sC": {
       "container_type": "Publication",
@@ -85,6 +85,23 @@
         "1752058740287652372"
       ]
     },
+    "xlIBwREAAAAJ:WF5omc3nYNoC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Spatial Intelligence in Vision-Language Models: A Comprehensive Survey",
+        "pub_year": "2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "xlIBwREAAAAJ:WF5omc3nYNoC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17700550352212067534,7698271853126304320",
+      "cites_id": [
+        "17700550352212067534",
+        "7698271853126304320"
+      ]
+    },
     "xlIBwREAAAAJ:2osOgNQ5qMEC": {
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
@@ -99,23 +116,6 @@
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4233934200802948226",
       "cites_id": [
         "4233934200802948226"
-      ]
-    },
-    "xlIBwREAAAAJ:WF5omc3nYNoC": {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Spatial Intelligence in Vision-Language Models: A Comprehensive Survey",
-        "pub_year": "2026",
-        "citation": ""
-      },
-      "filled": false,
-      "author_pub_id": "xlIBwREAAAAJ:WF5omc3nYNoC",
-      "num_citations": 3,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7698271853126304320,17700550352212067534",
-      "cites_id": [
-        "7698271853126304320",
-        "17700550352212067534"
       ]
     },
     "xlIBwREAAAAJ:ufrVoPGSRksC": {
@@ -151,7 +151,7 @@
       ]
     }
   },
-  "citedby5y": 318,
+  "citedby5y": 319,
   "hindex": 4,
   "hindex5y": 4,
   "i10index": 3,
@@ -160,7 +160,7 @@
     "2023": 5,
     "2024": 56,
     "2025": 172,
-    "2026": 85
+    "2026": 86
   },
-  "updated": "2026-05-15T14:36:05Z"
+  "updated": "2026-05-16T14:36:05Z"
 }
