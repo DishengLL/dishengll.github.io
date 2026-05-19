@@ -19,7 +19,7 @@
   ],
   "email_domain": "@case.edu",
   "homepage": "https://dishengll.github.io/",
-  "citedby": 321,
+  "citedby": 320,
   "publications": {
     "xlIBwREAAAAJ:u-x6o8ySG0sC": {
       "container_type": "Publication",
@@ -47,7 +47,7 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:qjMakFHDy7sC",
-      "num_citations": 23,
+      "num_citations": 22,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17930244082616429228",
       "cites_id": [
         "17930244082616429228"
@@ -90,7 +90,7 @@
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
         "title": "Spatial Intelligence in Vision-Language Models: A Comprehensive Survey",
-        "pub_year": "2026",
+        "pub_year": "2025",
         "citation": ""
       },
       "filled": false,
@@ -163,7 +163,7 @@
       "num_citations": 0
     }
   },
-  "citedby5y": 319,
+  "citedby5y": 318,
   "hindex": 4,
   "hindex5y": 4,
   "i10index": 3,
@@ -172,7 +172,7 @@
     "2023": 5,
     "2024": 56,
     "2025": 172,
-    "2026": 86
+    "2026": 85
   },
-  "updated": "2026-05-18T14:36:06Z"
+  "updated": "2026-05-19T14:36:05Z"
 }
