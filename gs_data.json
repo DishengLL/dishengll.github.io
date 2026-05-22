@@ -90,7 +90,7 @@
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
         "title": "Spatial Intelligence in Vision-Language Models: A Comprehensive Survey",
-        "pub_year": "2025",
+        "pub_year": "2026",
         "citation": ""
       },
       "filled": false,
@@ -174,5 +174,5 @@
     "2025": 172,
     "2026": 85
   },
-  "updated": "2026-05-21T14:36:06Z"
+  "updated": "2026-05-22T14:36:06Z"
 }
