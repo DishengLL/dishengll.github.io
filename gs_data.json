@@ -19,7 +19,7 @@
   ],
   "email_domain": "@case.edu",
   "homepage": "https://dishengll.github.io/",
-  "citedby": 336,
+  "citedby": 337,
   "publications": {
     "xlIBwREAAAAJ:u-x6o8ySG0sC": {
       "container_type": "Publication",
@@ -69,6 +69,22 @@
         "5530442389613500539"
       ]
     },
+    "xlIBwREAAAAJ:2osOgNQ5qMEC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Causal3d: A comprehensive benchmark for causal learning from visual data",
+        "pub_year": "2025",
+        "citation": "arXiv preprint arXiv:2503.04852, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "xlIBwREAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4233934200802948226",
+      "cites_id": [
+        "4233934200802948226"
+      ]
+    },
     "xlIBwREAAAAJ:UeHWp8X0CEIC": {
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
@@ -83,22 +99,6 @@
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1752058740287652372",
       "cites_id": [
         "1752058740287652372"
-      ]
-    },
-    "xlIBwREAAAAJ:2osOgNQ5qMEC": {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Causal3d: A comprehensive benchmark for causal learning from visual data",
-        "pub_year": "2025",
-        "citation": "arXiv preprint arXiv:2503.04852, 2025"
-      },
-      "filled": false,
-      "author_pub_id": "xlIBwREAAAAJ:2osOgNQ5qMEC",
-      "num_citations": 5,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4233934200802948226",
-      "cites_id": [
-        "4233934200802948226"
       ]
     },
     "xlIBwREAAAAJ:WF5omc3nYNoC": {
@@ -163,7 +163,7 @@
       "num_citations": 0
     }
   },
-  "citedby5y": 334,
+  "citedby5y": 335,
   "hindex": 5,
   "hindex5y": 5,
   "i10index": 3,
@@ -172,7 +172,7 @@
     "2023": 5,
     "2024": 56,
     "2025": 166,
-    "2026": 105
+    "2026": 106
   },
-  "updated": "2026-06-07T14:36:05Z"
+  "updated": "2026-06-08T14:36:05Z"
 }
