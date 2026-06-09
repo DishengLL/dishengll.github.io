@@ -89,7 +89,11 @@ I have broad research interests in **Computer Vision** and **Vision-Language Mod
 # 📝 Servicing 
 Reviewer for
 
-ICLR'26, CVPR'26
+ICLR'26, CVPR'26, NeurIPS'26
+
+Invited Talk
+
+- Dec. 30, 2025, “Spatial Intelligence in Vision-Language Models: What It Is, What Works, and What’s Next,” ENCODE Lab Lecture Series, Westlake University.
 
 # 🎓 Teaching
 Teaching Assistant
@@ -99,3 +103,15 @@ Teaching Assistant
 •	Spring 2025 — CSDS 425: Computer Networks (Instructor: An Wang)
 
 •	Fall 2024 — CSDS 425: Computer Networks (Instructor: Mark Allman)
+
+# 📄 Papers
+
+- **2026** — [Structured 3D Latents Are Surprisingly Powerful: Unleashing Generalizable Style with 2D Diffusion](https://arxiv.org/abs/2605.04412)
+- **2026** — [GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning](https://arxiv.org/abs/2603.19137)
+- **2026** — [When 'YES' Meets 'BUT': Can Large Models Comprehend Contradictory Humor Through Comparative Reasoning?](https://arxiv.org/abs/2503.23137), *IEEE TPAMI*
+- **2025** — [Spatial Intelligence in Vision-Language Models: A Comprehensive Survey](https://doi.org/10.36227/techrxiv.176231405.57942913/v2)
+- **2025** — [Counterfactual Visual Explanation via Causally-Guided Adversarial Steering](https://arxiv.org/abs/2507.09881)
+- **2025** — [BARD-GS: Blur-Aware Reconstruction of Dynamic Scenes via Gaussian Splatting](https://arxiv.org/abs/2503.15835), *CVPR 2025*
+- **2025** — [CAUSAL3D: A Comprehensive Benchmark for Causal Learning from Visual Data](https://arxiv.org/abs/2503.04852)
+- **2025** — [CLIP in Medical Imaging: A Comprehensive Survey](https://doi.org/10.1016/j.media.2025.103551), *Medical Image Analysis*
+- **2023** — [Prediction of COVID-19 Patients' Emergency Room Revisit Using Multi-Source Transfer Learning](https://arxiv.org/abs/2306.17257)
