@@ -19,7 +19,7 @@
   ],
   "email_domain": "@case.edu",
   "homepage": "https://dishengll.github.io/",
-  "citedby": 342,
+  "citedby": 344,
   "publications": {
     "xlIBwREAAAAJ:u-x6o8ySG0sC": {
       "container_type": "Publication",
@@ -31,7 +31,7 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:u-x6o8ySG0sC",
-      "num_citations": 277,
+      "num_citations": 278,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15828615755176313998",
       "cites_id": [
         "15828615755176313998"
@@ -85,6 +85,23 @@
         "4233934200802948226"
       ]
     },
+    "xlIBwREAAAAJ:WF5omc3nYNoC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Spatial Intelligence in Vision-Language Models: A Comprehensive Survey",
+        "pub_year": "2026",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "xlIBwREAAAAJ:WF5omc3nYNoC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17700550352212067534,7698271853126304320",
+      "cites_id": [
+        "17700550352212067534",
+        "7698271853126304320"
+      ]
+    },
     "xlIBwREAAAAJ:UeHWp8X0CEIC": {
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
@@ -99,23 +116,6 @@
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1752058740287652372",
       "cites_id": [
         "1752058740287652372"
-      ]
-    },
-    "xlIBwREAAAAJ:WF5omc3nYNoC": {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Spatial Intelligence in Vision-Language Models: A Comprehensive Survey",
-        "pub_year": "2026",
-        "citation": ""
-      },
-      "filled": false,
-      "author_pub_id": "xlIBwREAAAAJ:WF5omc3nYNoC",
-      "num_citations": 4,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17700550352212067534,7698271853126304320",
-      "cites_id": [
-        "17700550352212067534",
-        "7698271853126304320"
       ]
     },
     "xlIBwREAAAAJ:ufrVoPGSRksC": {
@@ -163,7 +163,7 @@
       "num_citations": 0
     }
   },
-  "citedby5y": 340,
+  "citedby5y": 342,
   "hindex": 5,
   "hindex5y": 5,
   "i10index": 3,
@@ -172,7 +172,7 @@
     "2023": 5,
     "2024": 56,
     "2025": 166,
-    "2026": 111
+    "2026": 113
   },
-  "updated": "2026-06-13T14:36:05Z"
+  "updated": "2026-06-14T14:36:04Z"
 }
