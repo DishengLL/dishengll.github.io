@@ -19,7 +19,7 @@
   ],
   "email_domain": "@case.edu",
   "homepage": "https://dishengll.github.io/",
-  "citedby": 347,
+  "citedby": 380,
   "publications": {
     "xlIBwREAAAAJ:u-x6o8ySG0sC": {
       "container_type": "Publication",
@@ -31,7 +31,7 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:u-x6o8ySG0sC",
-      "num_citations": 280,
+      "num_citations": 304,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15828615755176313998",
       "cites_id": [
         "15828615755176313998"
@@ -43,11 +43,11 @@
       "bib": {
         "title": "Bard-gs: Blur-aware reconstruction of dynamic scenes via gaussian splatting",
         "pub_year": "2025",
-        "citation": "Proceedings of the Computer Vision and Pattern Recognition Conference, 16532 …, 2025"
+        "citation": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …, 2025"
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:qjMakFHDy7sC",
-      "num_citations": 27,
+      "num_citations": 30,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17930244082616429228",
       "cites_id": [
         "17930244082616429228"
@@ -63,26 +63,10 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:u5HHmVD_uO8C",
-      "num_citations": 21,
+      "num_citations": 20,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5530442389613500539",
       "cites_id": [
         "5530442389613500539"
-      ]
-    },
-    "xlIBwREAAAAJ:2osOgNQ5qMEC": {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Causal3d: A comprehensive benchmark for causal learning from visual data",
-        "pub_year": "2025",
-        "citation": "arXiv preprint arXiv:2503.04852, 2025"
-      },
-      "filled": false,
-      "author_pub_id": "xlIBwREAAAAJ:2osOgNQ5qMEC",
-      "num_citations": 6,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4233934200802948226",
-      "cites_id": [
-        "4233934200802948226"
       ]
     },
     "xlIBwREAAAAJ:WF5omc3nYNoC": {
@@ -90,12 +74,12 @@
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
         "title": "Spatial Intelligence in Vision-Language Models: A Comprehensive Survey",
-        "pub_year": "2026",
-        "citation": ""
+        "pub_year": "2025",
+        "citation": "TechRxiv 2025 (1110), 2025"
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:WF5omc3nYNoC",
-      "num_citations": 5,
+      "num_citations": 7,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17700550352212067534,7698271853126304320",
       "cites_id": [
         "17700550352212067534",
@@ -112,10 +96,42 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:UeHWp8X0CEIC",
-      "num_citations": 5,
+      "num_citations": 7,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1752058740287652372",
       "cites_id": [
         "1752058740287652372"
+      ]
+    },
+    "xlIBwREAAAAJ:2osOgNQ5qMEC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Causal3d: A comprehensive benchmark for causal learning from visual data",
+        "pub_year": "2025",
+        "citation": "arXiv preprint arXiv:2503.04852, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "xlIBwREAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4233934200802948226",
+      "cites_id": [
+        "4233934200802948226"
+      ]
+    },
+    "xlIBwREAAAAJ:Tyk-4Ss8FVUC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Counterfactual Visual Explanation via Causally-Guided Adversarial Steering",
+        "pub_year": "2025",
+        "citation": "arXiv preprint arXiv:2507.09881, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "xlIBwREAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=722874631654972798",
+      "cites_id": [
+        "722874631654972798"
       ]
     },
     "xlIBwREAAAAJ:ufrVoPGSRksC": {
@@ -134,21 +150,41 @@
         "4451597311891947813"
       ]
     },
-    "xlIBwREAAAAJ:Tyk-4Ss8FVUC": {
+    "xlIBwREAAAAJ:5nxA0vEk-isC": {
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
-        "title": "Counterfactual Visual Explanation via Causally-Guided Adversarial Steering",
-        "pub_year": "2025",
-        "citation": "arXiv preprint arXiv:2507.09881, 2025"
+        "title": "Imagining Recovery: Inference-Time Counterfactual Realignment for Vision-Language-Action Models",
+        "pub_year": "2026",
+        "citation": "arXiv preprint arXiv:2608.14822, 2026"
       },
       "filled": false,
-      "author_pub_id": "xlIBwREAAAAJ:Tyk-4Ss8FVUC",
-      "num_citations": 1,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=722874631654972798",
-      "cites_id": [
-        "722874631654972798"
-      ]
+      "author_pub_id": "xlIBwREAAAAJ:5nxA0vEk-isC",
+      "num_citations": 0
+    },
+    "xlIBwREAAAAJ:0EnyYjriUFMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Computational Humor with Multimodal LLMs: Methods, Datasets, Evaluation, and Challenges",
+        "pub_year": "2026",
+        "citation": "arXiv preprint arXiv:2607.19011, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "xlIBwREAAAAJ:0EnyYjriUFMC",
+      "num_citations": 0
+    },
+    "xlIBwREAAAAJ:Se3iqnhoufwC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Post-Generation Curation of Synthetic Images via Homogeneous-Heterogeneous Splitting",
+        "pub_year": "2026",
+        "citation": "arXiv preprint arXiv:2607.02637, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "xlIBwREAAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
     },
     "xlIBwREAAAAJ:_FxGoFyzp5QC": {
       "container_type": "Publication",
@@ -161,18 +197,30 @@
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:_FxGoFyzp5QC",
       "num_citations": 0
+    },
+    "xlIBwREAAAAJ:UebtZRa9Y70C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "When ‘YES’Meets ‘but’: Can AI Comprehend Contradictory Humor in Comics?",
+        "pub_year": "2026",
+        "citation": "IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "xlIBwREAAAAJ:UebtZRa9Y70C",
+      "num_citations": 0
     }
   },
-  "citedby5y": 345,
-  "hindex": 5,
-  "hindex5y": 5,
+  "citedby5y": 379,
+  "hindex": 6,
+  "hindex5y": 6,
   "i10index": 3,
   "i10index5y": 3,
   "cites_per_year": {
-    "2023": 5,
-    "2024": 56,
-    "2025": 164,
-    "2026": 118
+    "2023": 4,
+    "2024": 54,
+    "2025": 163,
+    "2026": 156
   },
-  "updated": "2026-06-23T14:36:05Z"
+  "updated": "2026-08-28T23:06:15Z"
 }
