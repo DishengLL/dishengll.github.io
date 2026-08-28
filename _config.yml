@@ -9,7 +9,7 @@
 title: 'Disheng Liu'
 description: 'Second-year Ph.D. student at CWRU'
 repository: 'DishengLL/dishengll.github.io'
-google_scholar_stats_use_cdn: true
+google_scholar_stats_use_cdn: false
 
 # google analytics
 google_analytics_id: G-R40TFHERSF # get google_analytics_id from https://analytics.google.com/analytics/
