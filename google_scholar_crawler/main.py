@@ -4,10 +4,11 @@ from __future__ import annotations
 import json
 import os
 from datetime import datetime
+from pathlib import Path
 
 from scholarly import scholarly
 
-RESULTS_DIR = "results"
+RESULTS_DIR = Path(__file__).resolve().parent / "results"
 GS_ID_ENV = "GOOGLE_SCHOLAR_ID"
 
 
@@ -29,15 +30,15 @@ def normalize_author(author: dict) -> dict:
     return author
 
 
-def save_json(path: str, data: dict) -> None:
-    os.makedirs(os.path.dirname(path), exist_ok=True)
-    with open(path, "w", encoding="utf-8") as f:
+def save_json(path: str | Path, data: dict) -> None:
+    path = Path(path)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
 def main() -> int:
-    # scholar_id = os.getenv(GS_ID_ENV)
-    scholar_id = "xlIBwREAAAAJ" 
+    scholar_id = os.getenv(GS_ID_ENV)
     print(f"[debug] Using Google Scholar ID: {scholar_id!r}", flush=True)
     if not scholar_id:
         print(f"[error] Environment variable {GS_ID_ENV} is not set.", flush=True)
@@ -58,15 +59,14 @@ def main() -> int:
         indent=2,
     ))
 
-
-    save_json(os.path.join(RESULTS_DIR, "gs_data.json"), author)
+    save_json(RESULTS_DIR / "gs_data.json", author)
 
     shieldio_data = {
         "schemaVersion": 1,
         "label": "citations",
         "message": str(author.get("citedby", 0)),
     }
-    save_json(os.path.join(RESULTS_DIR, "gs_data_shieldsio.json"), shieldio_data)
+    save_json(RESULTS_DIR / "gs_data_shieldsio.json", shieldio_data)
 
     print("[info] Saved results to 'results/'", flush=True)
     return 0
