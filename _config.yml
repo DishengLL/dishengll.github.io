@@ -9,6 +9,8 @@
 title: 'Disheng Liu'
 description: 'Second-year Ph.D. student at CWRU'
 repository: 'DishengLL/dishengll.github.io'
+github:
+  url: 'http://127.0.0.1:4000'
 google_scholar_stats_use_cdn: false
 
 # google analytics
@@ -22,7 +24,7 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 # Site Author
 author:
   name: 'Disheng Liu'
-  avatar: 'images/Ds.png'
+  avatar: 'images/Ds.JPG'
   bio: 'Case Western Reserve University'
   location: 'Cleveland, USA'
   employer:

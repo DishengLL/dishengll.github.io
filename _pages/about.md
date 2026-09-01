@@ -89,7 +89,7 @@ I have broad research interests in **Computer Vision** and **Vision-Language Mod
 # 📝 Servicing 
 Reviewer for
 
-ICLR'26, CVPR'26, NeurIPS'26
+ICLR'26, CVPR'26, NeurIPS'26, ACL
 
 Invited Talk
 
