@@ -47,7 +47,7 @@ I have broad research interests in **Computer Vision** and **Vision-Language Mod
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.06</div><img src='/images/Project/Synthetic.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Balancing Fidelity and Diversity: Synthetic data could stand on the shoulder of the real in visual recognition**](https://openreview.net/pdf?id=6r0VuH8gGT)
+[**Post-Generation Curation of Synthetic Images via Homogeneous-Heterogeneous Splitting**](https://arxiv.org/pdf/2607.02637)
 
 **Disheng Liu**, Tuo Liang, Yu Yin; [**Github**](https://github.com/DishengLL/BALANCING-FIDELITY-AND-DIVERSITY)  
 - With the rapid progress of generative models, synthetic data has become a common solution to data scarcity in AI. However, is using it directly without curation ideal for visual recognition? We systematically study how data fidelity and diversity affect recognition performance and show that balancing these factors significantly improves results through a training-free curation pipeline.
@@ -93,7 +93,7 @@ ICLR'26, CVPR'26, NeurIPS'26, ACL
 
 Invited Talk
 
-- Dec. 30, 2025, “Spatial Intelligence in Vision-Language Models: What It Is, What Works, and What’s Next,” ENCODE Lab Lecture Series, Westlake University.
+- Dec. 30, 2025, “Spatial Intelligence in Vision-Language Models: What It Is, What Works, and What’s Next,” [ENCODE Lab Lecture Series](https://westlake-encode-lab.github.io/talks/), Westlake University.
 
 # 🎓 Teaching
 Teaching Assistant
