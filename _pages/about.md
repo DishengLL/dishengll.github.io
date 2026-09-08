@@ -49,7 +49,7 @@ I have broad research interests in **Computer Vision** and **Vision-Language Mod
 
 [**Post-Generation Curation of Synthetic Images via Homogeneous-Heterogeneous Splitting**](https://arxiv.org/pdf/2607.02637)
 
-**Disheng Liu**, Tuo Liang, Yu Yin; [**Github**](https://github.com/DishengLL/BALANCING-FIDELITY-AND-DIVERSITY)  
+**Disheng Liu**, Tuo Liang, Chaoda Song, and Yu Yin; [**Github**](https://github.com/DishengLL/BALANCING-FIDELITY-AND-DIVERSITY)  
 - With the rapid progress of generative models, synthetic data has become a common solution to data scarcity in AI. However, is using it directly without curation ideal for visual recognition? We systematically study how data fidelity and diversity affect recognition performance and show that balancing these factors significantly improves results through a training-free curation pipeline.
 
 </div>
