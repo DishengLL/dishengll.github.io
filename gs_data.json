@@ -19,7 +19,7 @@
   ],
   "email_domain": "@case.edu",
   "homepage": "https://dishengll.github.io/",
-  "citedby": 385,
+  "citedby": 396,
   "publications": {
     "xlIBwREAAAAJ:u-x6o8ySG0sC": {
       "container_type": "Publication",
@@ -31,7 +31,7 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:u-x6o8ySG0sC",
-      "num_citations": 307,
+      "num_citations": 315,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15828615755176313998",
       "cites_id": [
         "15828615755176313998"
@@ -47,7 +47,7 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:qjMakFHDy7sC",
-      "num_citations": 32,
+      "num_citations": 33,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17930244082616429228",
       "cites_id": [
         "17930244082616429228"
@@ -118,6 +118,22 @@
         "4233934200802948226"
       ]
     },
+    "xlIBwREAAAAJ:ufrVoPGSRksC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning",
+        "pub_year": "2026",
+        "citation": "arXiv preprint arXiv:2603.19137, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "xlIBwREAAAAJ:ufrVoPGSRksC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4451597311891947813",
+      "cites_id": [
+        "4451597311891947813"
+      ]
+    },
     "xlIBwREAAAAJ:Tyk-4Ss8FVUC": {
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
@@ -134,21 +150,17 @@
         "722874631654972798"
       ]
     },
-    "xlIBwREAAAAJ:ufrVoPGSRksC": {
+    "xlIBwREAAAAJ:8k81kl-MbHgC": {
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
-        "title": "GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning",
+        "title": "Filling the Unseen: Scene Extrapolation via 3D Gaussian Splatting",
         "pub_year": "2026",
-        "citation": "arXiv preprint arXiv:2603.19137, 2026"
+        "citation": "arXiv preprint arXiv:2609.13262, 2026"
       },
       "filled": false,
-      "author_pub_id": "xlIBwREAAAAJ:ufrVoPGSRksC",
-      "num_citations": 2,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4451597311891947813",
-      "cites_id": [
-        "4451597311891947813"
-      ]
+      "author_pub_id": "xlIBwREAAAAJ:8k81kl-MbHgC",
+      "num_citations": 0
     },
     "xlIBwREAAAAJ:5nxA0vEk-isC": {
       "container_type": "Publication",
@@ -211,7 +223,7 @@
       "num_citations": 0
     }
   },
-  "citedby5y": 384,
+  "citedby5y": 395,
   "hindex": 6,
   "hindex5y": 6,
   "i10index": 3,
@@ -220,7 +232,7 @@
     "2023": 4,
     "2024": 55,
     "2025": 161,
-    "2026": 162
+    "2026": 173
   },
-  "updated": "2026-09-13T08:00:05Z"
+  "updated": "2026-10-02T08:00:06Z"
 }
