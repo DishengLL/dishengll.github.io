@@ -19,7 +19,7 @@
   ],
   "email_domain": "@case.edu",
   "homepage": "https://dishengll.github.io/",
-  "citedby": 396,
+  "citedby": 402,
   "publications": {
     "xlIBwREAAAAJ:u-x6o8ySG0sC": {
       "container_type": "Publication",
@@ -31,7 +31,7 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:u-x6o8ySG0sC",
-      "num_citations": 315,
+      "num_citations": 317,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15828615755176313998",
       "cites_id": [
         "15828615755176313998"
@@ -47,7 +47,7 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:qjMakFHDy7sC",
-      "num_citations": 33,
+      "num_citations": 34,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17930244082616429228",
       "cites_id": [
         "17930244082616429228"
@@ -67,6 +67,22 @@
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5530442389613500539",
       "cites_id": [
         "5530442389613500539"
+      ]
+    },
+    "xlIBwREAAAAJ:2osOgNQ5qMEC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Causal3d: A comprehensive benchmark for causal learning from visual data",
+        "pub_year": "2025",
+        "citation": "arXiv preprint arXiv:2503.04852, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "xlIBwREAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4233934200802948226",
+      "cites_id": [
+        "4233934200802948226"
       ]
     },
     "xlIBwREAAAAJ:WF5omc3nYNoC": {
@@ -102,22 +118,6 @@
         "1752058740287652372"
       ]
     },
-    "xlIBwREAAAAJ:2osOgNQ5qMEC": {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Causal3d: A comprehensive benchmark for causal learning from visual data",
-        "pub_year": "2025",
-        "citation": "arXiv preprint arXiv:2503.04852, 2025"
-      },
-      "filled": false,
-      "author_pub_id": "xlIBwREAAAAJ:2osOgNQ5qMEC",
-      "num_citations": 7,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4233934200802948226",
-      "cites_id": [
-        "4233934200802948226"
-      ]
-    },
     "xlIBwREAAAAJ:ufrVoPGSRksC": {
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
@@ -128,7 +128,7 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:ufrVoPGSRksC",
-      "num_citations": 4,
+      "num_citations": 5,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4451597311891947813",
       "cites_id": [
         "4451597311891947813"
@@ -150,18 +150,6 @@
         "722874631654972798"
       ]
     },
-    "xlIBwREAAAAJ:8k81kl-MbHgC": {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Filling the Unseen: Scene Extrapolation via 3D Gaussian Splatting",
-        "pub_year": "2026",
-        "citation": "arXiv preprint arXiv:2609.13262, 2026"
-      },
-      "filled": false,
-      "author_pub_id": "xlIBwREAAAAJ:8k81kl-MbHgC",
-      "num_citations": 0
-    },
     "xlIBwREAAAAJ:5nxA0vEk-isC": {
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
@@ -172,6 +160,34 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:5nxA0vEk-isC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13677069629314964031",
+      "cites_id": [
+        "13677069629314964031"
+      ]
+    },
+    "xlIBwREAAAAJ:MXK_kJrjxJIC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Toward Comprehensive 3D Grounding: Orientation Grounding through Vision-Language Models",
+        "pub_year": "2026",
+        "citation": "arXiv preprint arXiv:2609.33109, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "xlIBwREAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 0
+    },
+    "xlIBwREAAAAJ:8k81kl-MbHgC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Filling the Unseen: Scene Extrapolation via 3D Gaussian Splatting",
+        "pub_year": "2026",
+        "citation": "arXiv preprint arXiv:2609.13262, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "xlIBwREAAAAJ:8k81kl-MbHgC",
       "num_citations": 0
     },
     "xlIBwREAAAAJ:0EnyYjriUFMC": {
@@ -223,7 +239,7 @@
       "num_citations": 0
     }
   },
-  "citedby5y": 395,
+  "citedby5y": 401,
   "hindex": 6,
   "hindex5y": 6,
   "i10index": 3,
@@ -232,7 +248,7 @@
     "2023": 4,
     "2024": 55,
     "2025": 161,
-    "2026": 173
+    "2026": 179
   },
-  "updated": "2026-10-02T08:00:06Z"
+  "updated": "2026-10-03T08:00:06Z"
 }
