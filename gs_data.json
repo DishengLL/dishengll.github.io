@@ -19,7 +19,7 @@
   ],
   "email_domain": "@case.edu",
   "homepage": "https://dishengll.github.io/",
-  "citedby": 402,
+  "citedby": 408,
   "publications": {
     "xlIBwREAAAAJ:u-x6o8ySG0sC": {
       "container_type": "Publication",
@@ -31,7 +31,7 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:u-x6o8ySG0sC",
-      "num_citations": 317,
+      "num_citations": 319,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15828615755176313998",
       "cites_id": [
         "15828615755176313998"
@@ -47,7 +47,7 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:qjMakFHDy7sC",
-      "num_citations": 34,
+      "num_citations": 36,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17930244082616429228",
       "cites_id": [
         "17930244082616429228"
@@ -69,6 +69,23 @@
         "5530442389613500539"
       ]
     },
+    "xlIBwREAAAAJ:WF5omc3nYNoC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Spatial Intelligence in Vision-Language Models: A Comprehensive Survey",
+        "pub_year": "2025",
+        "citation": "TechRxiv 2025 (1110), 2025"
+      },
+      "filled": false,
+      "author_pub_id": "xlIBwREAAAAJ:WF5omc3nYNoC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17700550352212067534,7698271853126304320",
+      "cites_id": [
+        "17700550352212067534",
+        "7698271853126304320"
+      ]
+    },
     "xlIBwREAAAAJ:2osOgNQ5qMEC": {
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
@@ -83,23 +100,6 @@
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4233934200802948226",
       "cites_id": [
         "4233934200802948226"
-      ]
-    },
-    "xlIBwREAAAAJ:WF5omc3nYNoC": {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Spatial Intelligence in Vision-Language Models: A Comprehensive Survey",
-        "pub_year": "2025",
-        "citation": "TechRxiv 2025 (1110), 2025"
-      },
-      "filled": false,
-      "author_pub_id": "xlIBwREAAAAJ:WF5omc3nYNoC",
-      "num_citations": 7,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17700550352212067534,7698271853126304320",
-      "cites_id": [
-        "17700550352212067534",
-        "7698271853126304320"
       ]
     },
     "xlIBwREAAAAJ:UeHWp8X0CEIC": {
@@ -165,6 +165,18 @@
       "cites_id": [
         "13677069629314964031"
       ]
+    },
+    "xlIBwREAAAAJ:3fE2CSJIrl8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Correcting WHERE, Preserving HOW: Compositional Generalization for Vision-Language-Action Models via Referential Guidance",
+        "pub_year": "2026",
+        "citation": "arXiv preprint arXiv:2609.38616, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "xlIBwREAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 0
     },
     "xlIBwREAAAAJ:MXK_kJrjxJIC": {
       "container_type": "Publication",
@@ -239,7 +251,7 @@
       "num_citations": 0
     }
   },
-  "citedby5y": 401,
+  "citedby5y": 407,
   "hindex": 6,
   "hindex5y": 6,
   "i10index": 3,
@@ -248,7 +260,7 @@
     "2023": 4,
     "2024": 55,
     "2025": 161,
-    "2026": 179
+    "2026": 185
   },
-  "updated": "2026-10-03T08:00:06Z"
+  "updated": "2026-10-04T08:00:06Z"
 }
