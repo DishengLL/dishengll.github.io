@@ -19,7 +19,7 @@
   ],
   "email_domain": "@case.edu",
   "homepage": "https://dishengll.github.io/",
-  "citedby": 413,
+  "citedby": 414,
   "publications": {
     "xlIBwREAAAAJ:u-x6o8ySG0sC": {
       "container_type": "Publication",
@@ -166,6 +166,22 @@
         "13677069629314964031"
       ]
     },
+    "xlIBwREAAAAJ:0EnyYjriUFMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Computational Humor with Multimodal LLMs: Methods, Datasets, Evaluation, and Challenges",
+        "pub_year": "2026",
+        "citation": "arXiv preprint arXiv:2607.19011, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "xlIBwREAAAAJ:0EnyYjriUFMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17780065000840548262",
+      "cites_id": [
+        "17780065000840548262"
+      ]
+    },
     "xlIBwREAAAAJ:3fE2CSJIrl8C": {
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
@@ -200,18 +216,6 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:8k81kl-MbHgC",
-      "num_citations": 0
-    },
-    "xlIBwREAAAAJ:0EnyYjriUFMC": {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Computational Humor with Multimodal LLMs: Methods, Datasets, Evaluation, and Challenges",
-        "pub_year": "2026",
-        "citation": "arXiv preprint arXiv:2607.19011, 2026"
-      },
-      "filled": false,
-      "author_pub_id": "xlIBwREAAAAJ:0EnyYjriUFMC",
       "num_citations": 0
     },
     "xlIBwREAAAAJ:Se3iqnhoufwC": {
@@ -251,7 +255,7 @@
       "num_citations": 0
     }
   },
-  "citedby5y": 412,
+  "citedby5y": 413,
   "hindex": 6,
   "hindex5y": 6,
   "i10index": 3,
@@ -260,7 +264,7 @@
     "2023": 4,
     "2024": 55,
     "2025": 161,
-    "2026": 190
+    "2026": 191
   },
-  "updated": "2026-10-10T08:00:06Z"
+  "updated": "2026-10-11T08:00:05Z"
 }
