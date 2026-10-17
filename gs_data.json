@@ -19,7 +19,7 @@
   ],
   "email_domain": "@case.edu",
   "homepage": "https://dishengll.github.io/",
-  "citedby": 414,
+  "citedby": 420,
   "publications": {
     "xlIBwREAAAAJ:u-x6o8ySG0sC": {
       "container_type": "Publication",
@@ -31,7 +31,7 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:u-x6o8ySG0sC",
-      "num_citations": 322,
+      "num_citations": 324,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15828615755176313998",
       "cites_id": [
         "15828615755176313998"
@@ -79,7 +79,7 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:WF5omc3nYNoC",
-      "num_citations": 9,
+      "num_citations": 11,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17700550352212067534,7698271853126304320",
       "cites_id": [
         "17700550352212067534",
@@ -128,10 +128,26 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:ufrVoPGSRksC",
-      "num_citations": 5,
+      "num_citations": 6,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4451597311891947813",
       "cites_id": [
         "4451597311891947813"
+      ]
+    },
+    "xlIBwREAAAAJ:5nxA0vEk-isC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Imagining recovery: Inference-time counterfactual realignment for vision-language-action models",
+        "pub_year": "2026",
+        "citation": "arXiv preprint arXiv:2608.14822, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "xlIBwREAAAAJ:5nxA0vEk-isC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13677069629314964031",
+      "cites_id": [
+        "13677069629314964031"
       ]
     },
     "xlIBwREAAAAJ:Tyk-4Ss8FVUC": {
@@ -148,22 +164,6 @@
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=722874631654972798",
       "cites_id": [
         "722874631654972798"
-      ]
-    },
-    "xlIBwREAAAAJ:5nxA0vEk-isC": {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Imagining Recovery: Inference-Time Counterfactual Realignment for Vision-Language-Action Models",
-        "pub_year": "2026",
-        "citation": "arXiv preprint arXiv:2608.14822, 2026"
-      },
-      "filled": false,
-      "author_pub_id": "xlIBwREAAAAJ:5nxA0vEk-isC",
-      "num_citations": 2,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13677069629314964031",
-      "cites_id": [
-        "13677069629314964031"
       ]
     },
     "xlIBwREAAAAJ:0EnyYjriUFMC": {
@@ -255,16 +255,16 @@
       "num_citations": 0
     }
   },
-  "citedby5y": 413,
+  "citedby5y": 419,
   "hindex": 6,
   "hindex5y": 6,
-  "i10index": 3,
-  "i10index5y": 3,
+  "i10index": 4,
+  "i10index5y": 4,
   "cites_per_year": {
     "2023": 4,
     "2024": 55,
     "2025": 161,
-    "2026": 191
+    "2026": 197
   },
-  "updated": "2026-10-11T08:00:05Z"
+  "updated": "2026-10-17T08:00:06Z"
 }
