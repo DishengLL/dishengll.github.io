@@ -19,7 +19,7 @@
   ],
   "email_domain": "@case.edu",
   "homepage": "https://dishengll.github.io/",
-  "citedby": 420,
+  "citedby": 422,
   "publications": {
     "xlIBwREAAAAJ:u-x6o8ySG0sC": {
       "container_type": "Publication",
@@ -31,7 +31,7 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:u-x6o8ySG0sC",
-      "num_citations": 324,
+      "num_citations": 325,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15828615755176313998",
       "cites_id": [
         "15828615755176313998"
@@ -73,17 +73,17 @@
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
-        "title": "Spatial Intelligence in Vision-Language Models: A Comprehensive Survey",
-        "pub_year": "2025",
-        "citation": "TechRxiv 2025 (1110), 2025"
+        "title": "Spatial intelligence in vision-language models: A comprehensive survey",
+        "pub_year": "2026",
+        "citation": "Res. Square, 2026"
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:WF5omc3nYNoC",
-      "num_citations": 11,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17700550352212067534,7698271853126304320",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7698271853126304320,17700550352212067534",
       "cites_id": [
-        "17700550352212067534",
-        "7698271853126304320"
+        "7698271853126304320",
+        "17700550352212067534"
       ]
     },
     "xlIBwREAAAAJ:2osOgNQ5qMEC": {
@@ -255,7 +255,7 @@
       "num_citations": 0
     }
   },
-  "citedby5y": 419,
+  "citedby5y": 421,
   "hindex": 6,
   "hindex5y": 6,
   "i10index": 4,
@@ -264,7 +264,7 @@
     "2023": 4,
     "2024": 55,
     "2025": 161,
-    "2026": 197
+    "2026": 199
   },
-  "updated": "2026-10-17T08:00:06Z"
+  "updated": "2026-10-18T08:00:07Z"
 }
