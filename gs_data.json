@@ -73,9 +73,9 @@
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
-        "title": "Spatial intelligence in vision-language models: A comprehensive survey",
-        "pub_year": "2026",
-        "citation": "Res. Square, 2026"
+        "title": "Spatial Intelligence in Vision-Language Models: A Comprehensive Survey",
+        "pub_year": "2025",
+        "citation": "TechRxiv 2025 (1110), 2025"
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:WF5omc3nYNoC",
@@ -266,5 +266,5 @@
     "2025": 161,
     "2026": 200
   },
-  "updated": "2026-10-20T08:00:06Z"
+  "updated": "2026-10-21T08:00:05Z"
 }
