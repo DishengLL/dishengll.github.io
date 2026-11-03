@@ -19,7 +19,7 @@
   ],
   "email_domain": "@case.edu",
   "homepage": "https://dishengll.github.io/",
-  "citedby": 430,
+  "citedby": 433,
   "publications": {
     "xlIBwREAAAAJ:u-x6o8ySG0sC": {
       "container_type": "Publication",
@@ -31,7 +31,7 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:u-x6o8ySG0sC",
-      "num_citations": 331,
+      "num_citations": 332,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15828615755176313998",
       "cites_id": [
         "15828615755176313998"
@@ -102,6 +102,22 @@
         "4233934200802948226"
       ]
     },
+    "xlIBwREAAAAJ:ufrVoPGSRksC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning",
+        "pub_year": "2026",
+        "citation": "arXiv preprint arXiv:2603.19137, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "xlIBwREAAAAJ:ufrVoPGSRksC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4451597311891947813",
+      "cites_id": [
+        "4451597311891947813"
+      ]
+    },
     "xlIBwREAAAAJ:UeHWp8X0CEIC": {
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
@@ -116,22 +132,6 @@
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1752058740287652372",
       "cites_id": [
         "1752058740287652372"
-      ]
-    },
-    "xlIBwREAAAAJ:ufrVoPGSRksC": {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning",
-        "pub_year": "2026",
-        "citation": "arXiv preprint arXiv:2603.19137, 2026"
-      },
-      "filled": false,
-      "author_pub_id": "xlIBwREAAAAJ:ufrVoPGSRksC",
-      "num_citations": 6,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4451597311891947813",
-      "cites_id": [
-        "4451597311891947813"
       ]
     },
     "xlIBwREAAAAJ:5nxA0vEk-isC": {
@@ -255,16 +255,16 @@
       "num_citations": 0
     }
   },
-  "citedby5y": 429,
-  "hindex": 6,
-  "hindex5y": 6,
+  "citedby5y": 432,
+  "hindex": 7,
+  "hindex5y": 7,
   "i10index": 4,
   "i10index5y": 4,
   "cites_per_year": {
     "2023": 4,
     "2024": 55,
     "2025": 160,
-    "2026": 206
+    "2026": 209
   },
-  "updated": "2026-11-02T09:00:05Z"
+  "updated": "2026-11-03T09:00:05Z"
 }
