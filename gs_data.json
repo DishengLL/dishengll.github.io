@@ -19,7 +19,7 @@
   ],
   "email_domain": "@case.edu",
   "homepage": "https://dishengll.github.io/",
-  "citedby": 442,
+  "citedby": 441,
   "publications": {
     "xlIBwREAAAAJ:u-x6o8ySG0sC": {
       "container_type": "Publication",
@@ -79,7 +79,7 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:WF5omc3nYNoC",
-      "num_citations": 16,
+      "num_citations": 15,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7698271853126304320,17700550352212067534",
       "cites_id": [
         "7698271853126304320",
@@ -194,6 +194,18 @@
       "author_pub_id": "xlIBwREAAAAJ:kNdYIx-mwKoC",
       "num_citations": 0
     },
+    "xlIBwREAAAAJ:KlAtU1dfN6UC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "RefineSplat: Reconstruction-Guided Object-Centric Gaussian Splatting for Open-Vocabulary Querying",
+        "pub_year": "2026",
+        "citation": "arXiv preprint arXiv:2611.10379, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "xlIBwREAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 0
+    },
     "xlIBwREAAAAJ:3fE2CSJIrl8C": {
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
@@ -267,7 +279,7 @@
       "num_citations": 0
     }
   },
-  "citedby5y": 441,
+  "citedby5y": 440,
   "hindex": 7,
   "hindex5y": 7,
   "i10index": 4,
@@ -276,7 +288,7 @@
     "2023": 4,
     "2024": 55,
     "2025": 160,
-    "2026": 218
+    "2026": 217
   },
-  "updated": "2026-11-13T09:00:06Z"
+  "updated": "2026-11-14T09:00:05Z"
 }
