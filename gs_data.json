@@ -19,7 +19,7 @@
   ],
   "email_domain": "@case.edu",
   "homepage": "https://dishengll.github.io/",
-  "citedby": 445,
+  "citedby": 448,
   "publications": {
     "xlIBwREAAAAJ:u-x6o8ySG0sC": {
       "container_type": "Publication",
@@ -31,7 +31,7 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:u-x6o8ySG0sC",
-      "num_citations": 338,
+      "num_citations": 339,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15828615755176313998",
       "cites_id": [
         "15828615755176313998"
@@ -47,7 +47,7 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:qjMakFHDy7sC",
-      "num_citations": 40,
+      "num_citations": 41,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17930244082616429228",
       "cites_id": [
         "17930244082616429228"
@@ -144,7 +144,7 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:5nxA0vEk-isC",
-      "num_citations": 3,
+      "num_citations": 4,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13677069629314964031",
       "cites_id": [
         "13677069629314964031"
@@ -279,7 +279,7 @@
       "num_citations": 0
     }
   },
-  "citedby5y": 444,
+  "citedby5y": 447,
   "hindex": 7,
   "hindex5y": 7,
   "i10index": 4,
@@ -288,7 +288,7 @@
     "2023": 4,
     "2024": 55,
     "2025": 160,
-    "2026": 221
+    "2026": 224
   },
-  "updated": "2026-11-21T09:00:05Z"
+  "updated": "2026-11-22T09:00:06Z"
 }
