@@ -19,7 +19,7 @@
   ],
   "email_domain": "@case.edu",
   "homepage": "https://dishengll.github.io/",
-  "citedby": 457,
+  "citedby": 459,
   "publications": {
     "xlIBwREAAAAJ:u-x6o8ySG0sC": {
       "container_type": "Publication",
@@ -31,7 +31,7 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:u-x6o8ySG0sC",
-      "num_citations": 347,
+      "num_citations": 348,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15828615755176313998,10119804763351739954",
       "cites_id": [
         "15828615755176313998",
@@ -168,6 +168,22 @@
         "722874631654972798"
       ]
     },
+    "xlIBwREAAAAJ:8k81kl-MbHgC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Filling the Unseen: Scene Extrapolation via 3D Gaussian Splatting",
+        "pub_year": "2026",
+        "citation": "arXiv preprint arXiv:2609.13262, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "xlIBwREAAAAJ:8k81kl-MbHgC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4495654012089907016",
+      "cites_id": [
+        "4495654012089907016"
+      ]
+    },
     "xlIBwREAAAAJ:0EnyYjriUFMC": {
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
@@ -232,18 +248,6 @@
       "author_pub_id": "xlIBwREAAAAJ:MXK_kJrjxJIC",
       "num_citations": 0
     },
-    "xlIBwREAAAAJ:8k81kl-MbHgC": {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Filling the Unseen: Scene Extrapolation via 3D Gaussian Splatting",
-        "pub_year": "2026",
-        "citation": "arXiv preprint arXiv:2609.13262, 2026"
-      },
-      "filled": false,
-      "author_pub_id": "xlIBwREAAAAJ:8k81kl-MbHgC",
-      "num_citations": 0
-    },
     "xlIBwREAAAAJ:Se3iqnhoufwC": {
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
@@ -281,7 +285,7 @@
       "num_citations": 0
     }
   },
-  "citedby5y": 456,
+  "citedby5y": 458,
   "hindex": 7,
   "hindex5y": 7,
   "i10index": 4,
@@ -290,7 +294,7 @@
     "2023": 4,
     "2024": 56,
     "2025": 165,
-    "2026": 227
+    "2026": 229
   },
-  "updated": "2026-11-26T09:00:07Z"
+  "updated": "2026-11-27T09:00:07Z"
 }
