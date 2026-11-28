@@ -19,7 +19,7 @@
   ],
   "email_domain": "@case.edu",
   "homepage": "https://dishengll.github.io/",
-  "citedby": 459,
+  "citedby": 462,
   "publications": {
     "xlIBwREAAAAJ:u-x6o8ySG0sC": {
       "container_type": "Publication",
@@ -31,7 +31,7 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:u-x6o8ySG0sC",
-      "num_citations": 348,
+      "num_citations": 349,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15828615755176313998,10119804763351739954",
       "cites_id": [
         "15828615755176313998",
@@ -80,7 +80,7 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:WF5omc3nYNoC",
-      "num_citations": 16,
+      "num_citations": 17,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7698271853126304320,17700550352212067534,13951346787039355953",
       "cites_id": [
         "7698271853126304320",
@@ -168,20 +168,37 @@
         "722874631654972798"
       ]
     },
-    "xlIBwREAAAAJ:8k81kl-MbHgC": {
+    "xlIBwREAAAAJ:kNdYIx-mwKoC": {
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
-        "title": "Filling the Unseen: Scene Extrapolation via 3D Gaussian Splatting",
+        "title": "Filling the Unseen: Holistic Scene Extrapolation via 3D Gaussian Splatting",
         "pub_year": "2026",
-        "citation": "arXiv preprint arXiv:2609.13262, 2026"
+        "citation": "Proceedings of the 34th ACM International Conference on Multimedia, 16104-16112, 2026"
       },
       "filled": false,
-      "author_pub_id": "xlIBwREAAAAJ:8k81kl-MbHgC",
+      "author_pub_id": "xlIBwREAAAAJ:kNdYIx-mwKoC",
       "num_citations": 1,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4495654012089907016",
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4495654012089907016,8646285177262239703",
       "cites_id": [
-        "4495654012089907016"
+        "4495654012089907016",
+        "8646285177262239703"
+      ]
+    },
+    "xlIBwREAAAAJ:3fE2CSJIrl8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Correcting WHERE, Preserving HOW: Compositional Generalization for Vision-Language-Action Models via Referential Guidance",
+        "pub_year": "2026",
+        "citation": "arXiv preprint arXiv:2609.38616, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "xlIBwREAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17179178090727431282",
+      "cites_id": [
+        "17179178090727431282"
       ]
     },
     "xlIBwREAAAAJ:0EnyYjriUFMC": {
@@ -200,18 +217,6 @@
         "17780065000840548262"
       ]
     },
-    "xlIBwREAAAAJ:kNdYIx-mwKoC": {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Filling the Unseen: Holistic Scene Extrapolation via 3D Gaussian Splatting",
-        "pub_year": "2026",
-        "citation": "Proceedings of the 34th ACM International Conference on Multimedia, 16104-16112, 2026"
-      },
-      "filled": false,
-      "author_pub_id": "xlIBwREAAAAJ:kNdYIx-mwKoC",
-      "num_citations": 0
-    },
     "xlIBwREAAAAJ:KlAtU1dfN6UC": {
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
@@ -222,18 +227,6 @@
       },
       "filled": false,
       "author_pub_id": "xlIBwREAAAAJ:KlAtU1dfN6UC",
-      "num_citations": 0
-    },
-    "xlIBwREAAAAJ:3fE2CSJIrl8C": {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Correcting WHERE, Preserving HOW: Compositional Generalization for Vision-Language-Action Models via Referential Guidance",
-        "pub_year": "2026",
-        "citation": "arXiv preprint arXiv:2609.38616, 2026"
-      },
-      "filled": false,
-      "author_pub_id": "xlIBwREAAAAJ:3fE2CSJIrl8C",
       "num_citations": 0
     },
     "xlIBwREAAAAJ:MXK_kJrjxJIC": {
@@ -285,7 +278,7 @@
       "num_citations": 0
     }
   },
-  "citedby5y": 458,
+  "citedby5y": 461,
   "hindex": 7,
   "hindex5y": 7,
   "i10index": 4,
@@ -294,7 +287,7 @@
     "2023": 4,
     "2024": 56,
     "2025": 165,
-    "2026": 229
+    "2026": 232
   },
-  "updated": "2026-11-27T09:00:07Z"
+  "updated": "2026-11-28T09:00:06Z"
 }
